@@ -5,28 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4dc7e6d9-af22-4c96-83ce-949a437cf1f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/UI_tests.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/BUGS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/TESTCASES.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/pages/base_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/pages/main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/pages/stats_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/pages/theme_switch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/tests/test_main_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/tests/test_stats_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task2/tests/test_theme_switch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task2/TESTCASES.md" beforeDir="false" afterPath="$PROJECT_DIR$/Task2/TESTCASES.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/artAHAHA/avito-tech-intership.git",
-    "accountId": "22b01fb6-d957-49e7-a05f-6bc91e825ecd"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;artAHAHA&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/artAHAHA/avito-tech-intership.git&quot;,
+    &quot;accountId&quot;: &quot;22b01fb6-d957-49e7-a05f-6bc91e825ecd&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -58,31 +45,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_main_page.TestMainPage.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_category_filter.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_price_filter.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_price_filter1.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_sort_by_price.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_sort_by_price_asc.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_sort_by_price_desc.executor": "Run",
-    "Python tests.Python tests for test_main_page.TestMainPage.test_urgent_toggle.executor": "Run",
-    "Python tests.Python tests for test_stats_page.TestStatsPage.executor": "Run",
-    "Python tests.Python tests for test_stats_page.test_refresh_button_resets_timer_to_5_minutes.executor": "Run",
-    "Python tests.Python tests for test_stats_page.test_refresh_button_works.executor": "Run",
-    "Python tests.Python tests for test_stats_page.test_start_timer_button_resumes_countdown.executor": "Run",
-    "Python tests.Python tests for test_stats_page.test_stop_timer_button_stops_countdown.executor": "Run",
-    "Python tests.Python tests for test_theme_switch.TestThemeSwitch.executor": "Run",
-    "Python tests.Python tests for test_theme_switch.test_theme_switches_from_light_to_dark_and_back.executor": "Run",
-    "Python tests.Python tests for test_theme_switch.test_theme_toggle_button_text_changes.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/PyCharm Community Edition 2024.3.4/UI_tests",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_category_filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_price_filter.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_price_filter1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_sort_by_price.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_sort_by_price_asc.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_sort_by_price_desc.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_main_page.TestMainPage.test_urgent_toggle.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stats_page.TestStatsPage.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stats_page.test_refresh_button_resets_timer_to_5_minutes.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stats_page.test_refresh_button_works.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stats_page.test_start_timer_button_resumes_countdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_stats_page.test_stop_timer_button_stops_countdown.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_theme_switch.TestThemeSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_theme_switch.test_theme_switches_from_light_to_dark_and_back.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_theme_switch.test_theme_toggle_button_text_changes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/PyCharm Community Edition 2024.3.4/UI_tests&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="UI_tests" />
@@ -168,10 +155,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.main" />
+      <item itemvalue="Python tests.Python tests for test_main_page.TestMainPage" />
       <item itemvalue="Python tests.Python tests for test_theme_switch.TestThemeSwitch" />
       <item itemvalue="Python tests.Python tests for test_theme_switch.test_theme_switches_from_light_to_dark_and_back" />
       <item itemvalue="Python tests.Python tests for test_theme_switch.test_theme_toggle_button_text_changes" />
-      <item itemvalue="Python tests.Python tests for test_main_page.TestMainPage" />
     </list>
     <recent_temporary>
       <list>
