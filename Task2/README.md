@@ -8,7 +8,7 @@
 ```bash
 # Клонируем репозиторий
 git clone https://github.com/artAHAHA/avito-tech-intership.git
-cd moderation-tests
+cd avito-tech-intership/Task2
 
 # Устанавливаем зависимости
 pip install -r requirements.txt
@@ -16,7 +16,6 @@ pip install -r requirements.txt
 # Запускаем тесты
 python main.py
 ```
-
 
 # Структура проекта
 ```
